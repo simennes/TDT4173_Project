@@ -1,4 +1,11 @@
-data/ais_train.csv
 
 # ignore .npz files
 *.npz
+
+*.csv
+
+*.pkl
+
+*.json
+
+*.pb
